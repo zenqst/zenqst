@@ -1,7 +1,7 @@
 # **zenq_st**
 ## **Front-end Dev & Designer**
 
-### Languages
+### Languages & Frameworks
 ![html](https://i.imgur.com/IWchoRe.png) ![css](https://i.imgur.com/BZhD1TA.png) ![js](https://i.imgur.com/gfV68An.png) ![react](https://i.imgur.com/PrO0biF.png) ![python](https://i.imgur.com/UWjlT0c.png)
 
 ### Tools & Software
