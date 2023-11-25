@@ -8,4 +8,4 @@
 ![figma](https://i.imgur.com/lacJwTa.png) ![git](https://i.imgur.com/Ev6kG5o.png) ![vscode](https://i.imgur.com/cL7bDiY.png) ![sqlite](https://i.imgur.com/4ACM52R.png) ![illustator](https://i.imgur.com/OIIw8Hj.png) ![photoshop](https://i.imgur.com/2wZJKCA.png)
 
 ### Statistics of zenq_st
-![zenq-st GitHub stats](https://github-readme-stats.vercel.app/api?username=zenqst)
+![zenq-st GitHub stats](https://github-readme-stats.vercel.app/api?username=zenqst&theme=dark&language=ru)
