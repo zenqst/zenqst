@@ -7,5 +7,5 @@
 ### Tools & Software
 ![figma](https://i.imgur.com/lacJwTa.png) ![git](https://i.imgur.com/Ev6kG5o.png) ![vscode](https://i.imgur.com/cL7bDiY.png) ![sqlite](https://i.imgur.com/4ACM52R.png) ![illustator](https://i.imgur.com/OIIw8Hj.png) ![photoshop](https://i.imgur.com/2wZJKCA.png)
 
-### Statistic of zenq_st
-![zenq-st GitHub stats](https://github-readme-stats.vercel.app/api?username=zenqst&hide=contribs,prs)
+### Statistics of zenq_st
+![zenq-st GitHub stats](https://github-readme-stats.vercel.app/api?username=zenqst)
