@@ -1,0 +1,30 @@
+<svg width="50.000000" height="50.000000" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip23_1625">
+			<rect id="svg" width="35.000000" height="35.000000" transform="translate(8.000000 7.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient x1="55.687500" y1="57.968754" x2="71.218765" y2="77.218765" id="paint_linear_23_1631_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</linearGradient>
+		<linearGradient x1="60.912582" y1="30.624905" x2="60.824726" y2="53.757725" id="paint_linear_23_1632_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</linearGradient>
+	</defs>
+	<rect id="Next" rx="10.000000" width="50.000000" height="50.000000" fill="#242938" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip23_1625)">
+		<mask id="mask23_1628" mask-type="alpha" maskUnits="userSpaceOnUse" x="8.000000" y="7.000000" width="35.000000" height="35.000000">
+			<circle id="circle" cx="25.500000" cy="24.500000" r="17.500000" fill="#000000" fill-opacity="1.000000"/>
+		</mask>
+		<g mask="url(#mask23_1628)">
+			<circle id="circle" cx="25.500000" cy="24.500000" r="17.500000" fill="#000000" fill-opacity="1.000000"/>
+			<circle id="circle" cx="25.500000" cy="24.500000" r="17.500000" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="2.666667"/>
+			<path id="path" d="M37.07 37.62L21.44 17.5L18.5 17.5L18.5 31.49L20.85 31.49L20.85 20.49L35.22 39.05C35.87 38.61 36.48 38.14 37.07 37.62Z" fill="url(#paint_linear_23_1631_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+			<rect id="rect" x="30.361328" y="17.500000" width="2.333334" height="14.000001" fill="url(#paint_linear_23_1632_0)" fill-opacity="1.000000"/>
+		</g>
+	</g>
+</svg>

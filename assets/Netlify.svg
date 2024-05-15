@@ -1,0 +1,25 @@
+<svg width="50.000000" height="50.000000" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip23_1601">
+			<rect id="Netlify_logo_(2)" width="39.000000" height="33.000000" transform="translate(6.000000 8.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Netlify" rx="10.000000" width="50.000000" height="50.000000" fill="#FFFFFF" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip23_1601)">
+		<mask id="mask23_1604" mask-type="alpha" maskUnits="userSpaceOnUse" x="6.000000" y="8.000000" width="81.900391" height="32.862061">
+			<rect id="rect" x="6.000000" y="8.000000" width="81.900002" height="32.862000" fill="#000000" fill-opacity="1.000000"/>
+		</mask>
+		<g mask="url(#mask23_1604)">
+			<path id="path" d="M24.78 40.68L24.78 32.41L24.96 32.23L26.7 32.23L26.88 32.41L26.88 40.68L26.7 40.86L24.96 40.86L24.78 40.68Z" fill="#05BDBA" fill-opacity="1.000000" fill-rule="nonzero"/>
+			<path id="path" d="M24.78 16.45L24.78 8.17L24.96 8L26.7 8L26.88 8.17L26.88 16.45L26.7 16.62L24.96 16.62L24.78 16.45Z" fill="#05BDBA" fill-opacity="1.000000" fill-rule="nonzero"/>
+			<path id="path" d="M17.19 34.72L16.94 34.72L15.7 33.5L15.7 33.25L18.59 30.41L19.9 30.41L20.07 30.58L20.07 31.87L17.19 34.72Z" fill="#05BDBA" fill-opacity="1.000000" fill-rule="nonzero"/>
+			<path id="path" d="M17.18 14.14L16.94 14.14L15.7 15.36L15.7 15.6L18.59 18.45L19.89 18.45L20.07 18.27L20.07 16.98L17.18 14.14Z" fill="#05BDBA" fill-opacity="1.000000" fill-rule="nonzero"/>
+			<path id="path" d="M6.17 23.39L18.05 23.39L18.23 23.56L18.23 25.29L18.05 25.46L6.17 25.46L6 25.29L6 23.56L6.17 23.39Z" fill="#05BDBA" fill-opacity="1.000000" fill-rule="nonzero"/>
+			<path id="path" d="M27.66 28.79L27.49 28.61L27.49 23.61C27.49 22.75 27.14 22.08 26.09 22.06C25.55 22.05 24.93 22.06 24.26 22.09L24.16 22.19L24.17 28.61L23.99 28.79L21.89 28.79L21.72 28.61L21.72 20.24L21.89 20.07L26.61 20.02C28.98 20.02 29.94 21.63 29.94 23.44L29.94 28.61L29.76 28.79L27.66 28.79Z" fill="#014847" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+		<path id="path" d="M33.61 23.39L44.79 23.39L44.97 23.56L44.97 25.29L44.79 25.46L32.91 25.46L32.74 25.29L33.44 23.56L33.61 23.39Z" fill="#05BDBA" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
