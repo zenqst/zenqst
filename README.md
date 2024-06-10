@@ -1,4 +1,4 @@
-# Hey! **I'm Ilya, Front-end Dev & Designer**
+# Hey! **I'm Ilya, JS & Python Dev**
 
 ### My Languages & Frameworks
 
