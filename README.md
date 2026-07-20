@@ -1,6 +1,5 @@
 # Hey! **I'm Ilya, JS & Python Dev**
 
-
 ### Tech Stack
 
 **Languages**  
@@ -27,14 +26,11 @@
 **Communication**  
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/zenqst) [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)]([https://discord.com/549270156619284481](https://discordapp.com/users/549270156619284481)) [![VK](https://img.shields.io/badge/-VK-2E87FB?style=flat&logo=vk&logoColor=white)](https://vk.com/sudgdv) [![Badges](https://img.shields.io/badge/This%20badges-181717?style=flat&logo=github&logoColor=white)](https://alexandresanlim.github.io/Badges4-README.md-Profile/#/?id=%e2%9c%8f-how-to-contribute-%f0%9f%94%9d)
 
-
-
-
-
-
-
-
 ### GitHub Statistics
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenqst&hide_progress=false&card_width=430&theme=dark&layout=compact) -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 alt="zenqst's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenqst&hide_border=true&hide_progress=false&card_width=430&theme=dark&layout=compact" /></a> <a href="https://github.com/DenverCoder1/github-readme-streak-stats"> <img height=200 alt="zenqst's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=zenqst&theme=dark&hide_border=true&short_numbers=false&card_width=430"/> </a>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="200" alt="zenqst's stats" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zenqst&hide_border=true&hide_progress=false&card_width=430&theme=dark&layout=compact" />
+</a>
+<br/>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"> 
+  <img height="200" alt="zenqst's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=zenqst&theme=dark&hide_border=true&short_numbers=false&card_width=430"/> 
+</a>
